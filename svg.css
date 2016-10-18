@@ -1,6 +1,10 @@
 .container {
   border: 10px solid #b6bdc3;
-  width: 100%;
+  width: 90%;
   background: #fff;
   margin: 0 auto;
+}
+.roundButtonGroup{
+  position:relative;
+  left:50%;
 }
