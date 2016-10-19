@@ -1,9 +1,10 @@
 .container {
   border: 10px solid #b6bdc3;
-  width: 200px;
+  width: 100%;
   background: #fff;
   margin: 0 auto;
 }
 .roundButtonGroup{
-
+  width: 401.8;
+  height: 370.6;
 }
