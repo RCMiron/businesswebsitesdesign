@@ -1,6 +1,6 @@
 <svg  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="display: none">
 
-<symbol id="roundButtonGroup" class="buttons" viewBox="0 0 200 100">
+<symbol id="roundButtonGroup" class="buttons" viewBox="0 0 200 100" preserveAspectRatio="xMidYMid meet">
 	<path id="big" d="M361.7,171.3c-22.1,0-40.1,18-40.1,40.1s18,40.1,40.1,40.1c22.1,0,40.1-18,40.1-40.1
 		S383.8,171.3,361.7,171.3z"/>
 	<path id="small" d="M313.8,259.2c-30.7,0-55.7,25-55.7,55.7s25,55.7,55.7,55.7s55.7-25,55.7-55.7
