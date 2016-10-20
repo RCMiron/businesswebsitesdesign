@@ -1,9 +1,11 @@
 .container {
   position: relative;
   top:50%;
+  left: 50%;
   margin-top: -275px;
+  margin-left:-25%;
   border: 10px solid #b6bdc3;
-  width: 100%;
+  width: 50%;
   height: 550px;
   background: #fff;
   margin: 0 auto;
