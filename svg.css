@@ -4,14 +4,15 @@ body, html{
   height:100%;
 }
 .container {
-  margin: 0 auto;
-  border: 10px solid #b6bdc3;
-  width: 50%;
-  height: 550px;
+  width: 100%;
+  height: 100%;
   background: #fff;
 }
 .roundButtonGroup{
   position: relative;
   width: 401.8px;
   height: 370.6px;
+  left: 50%;
+  top:30%;
+  margin-left:-200.54px;
 }
