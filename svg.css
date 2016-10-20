@@ -5,6 +5,7 @@
   margin: 0 auto;
 }
 .roundButtonGroup{
+  position: relative;
   width: 401.8;
   height: 370.6;
 }
