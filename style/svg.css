@@ -1,0 +1,25 @@
+body, html{
+  width:100%;
+  padding: 0;
+}
+header{
+  height: 200px;
+  width:100%;
+  padding:2% 10%;
+}
+.logoContainer{
+  width: 80%;
+}
+main{
+position: absolute;
+width: 75%;
+left:50%;
+margin-left: -35%;
+padding: 3% 0;
+}
+.buttons{
+  fill: #483F5A;
+}
+.icon{
+  fill:#EAE5F1;
+}
